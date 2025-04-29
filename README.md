@@ -1,7 +1,7 @@
 # neuralVarLinUCB
 
 ## <a name="demo"></a> Quick Demo
-Run [this Google Colab](https://colab.research.google.com/drive/1Q6rMOwV6cBQeTQTxwmE2dhjeOq7-xqox?usp=sharing).
+Run [this Google Colab](https://colab.research.google.com/drive/1WmuMocSfIxtfzSrdSZvVRgYNaM6ePgNN?usp=sharing).
 
 ## <a name="prepare"></a> To prepare:
 ### <a name="library">Library</a>
